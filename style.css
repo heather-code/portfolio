@@ -45,7 +45,7 @@ background: linear-gradient(0deg, rgba(144,196,247,1) 0%, rgba(253,197,45,0.5816
 }
 .container:hover{
 	transform: scale(1.05, 1.05); 
-	transition: 1.3s;
+	transition: 1.31s;
 }
 
 #pcontent{
